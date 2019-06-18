@@ -1,0 +1,70 @@
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.container div {
+  margin: 5px;
+}
+
+.img-1 {
+  background-image: url('assets/img/duna.jpg');
+  background-size: cover;
+  width: 200px;
+  height: 200px;
+}
+
+.img-2 {
+  background-image: url('assets/img/mar.jpg');
+  background-size: cover;
+  width: 200px;
+  height: 200px;
+}
+
+.img-3 {
+  background-image: url('assets/img/montaña.jpg');
+  background-size: cover;
+  width: 200px;
+  height: 200px;
+}
+
+.img-4 {
+  background-image: url('assets/img/palmera.jpg');
+  background-size: cover;
+  width: 200px;
+  height: 200px;
+}
+
+.img-5 {
+  background-image: url('assets/img/playa.jpg');
+  background-size: cover;
+  width: 830px;
+  height: 300px;
+}
+
+.img-6 {
+  background-image: url('assets/img/montaña.jpg');
+  background-size: cover;
+  width: 200px;
+  height: 200px;
+}
+
+.img-7 {
+  background-image: url('assets/img/mar.jpg');
+  background-size: cover;
+  width: 200px;
+  height: 300px;
+}
+.img-8 {
+  background-image: url('assets/img/playa.jpg');
+  background-size: cover;
+  width: 200px;
+  height: 200px;
+}
+
+.img-9 {
+  background-image: url('assets/img/mar.jpg');
+  background-size: cover;
+  width: 200px;
+  height: 300px;
+}

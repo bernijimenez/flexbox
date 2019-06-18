@@ -1,0 +1,19 @@
+.container  {
+  display: flex;
+  font-family: 'Aleo', serif;
+  font-size: 1vw;
+    color: white;
+   margin: 0 auto;
+   width: 50%;
+}
+
+.item {
+  text-align: center;
+  background-color: pink;
+  width: 33%;
+  height: 10vh;
+  box-sizing: border-box;
+  padding-top: 22px;
+  border: 1px solid;
+  margin: 6px;
+}

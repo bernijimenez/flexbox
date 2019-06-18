@@ -1,0 +1,29 @@
+.button-2 {
+  background-color: #56cbf9;
+  padding: 10px 30px 10px 30px;
+  font-family: 'Aleo', serif;
+  color: white;
+  font-size: 1.5vw;
+  text-align: center;
+  border:0;
+}
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+  height: 300px;
+  width: 500px;
+}
+
+.form {
+display: flex;
+height: 70px;
+width: 600px;
+
+}
+
+
+.form input {
+  flex-grow: 1;
+}
